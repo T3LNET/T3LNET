@@ -11,16 +11,22 @@
       <img src="https://logodix.com/logo/14585.jpg" alt="Instagram Icon" width="100" height="100">
     </a>
   </tr>
-<br>
+<img src="https://wallpapercave.com/wp/wp6903417.jpg" alt="linkedin Icon" width="25" height="100">
   <tr>
     <a href="https://www.linkedin.com/in/mohamad-amirhassani-06ab10269">
       <img src="https://logodix.com/logo/16303.png" alt="linkedin Icon" width="150" height="75">
     </a>
   </tr>
-<br>
+<img src="https://wallpapercave.com/wp/wp6903417.jpg" alt="linkedin Icon" width="25" height="100">
   <tr>
     <a href="mailto:sayehsun1@gmail.com">
       <img src="https://logodix.com/logo/14631.png" alt="linkedin Icon" width="75" height="70">
+    </a>
+  </tr>
+<img src="https://wallpapercave.com/wp/wp6903417.jpg" alt="linkedin Icon" width="25" height="100">
+  <tr>
+    <a href="https://t.me/T3LNET/">
+      <img src="https://logodix.com/logo/1255268.png" alt="Telegram Icon" width="75" height="75">
     </a>
   </tr>
 </table>
