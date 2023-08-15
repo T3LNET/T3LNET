@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<div style="color:green">
+<div>
 <table>
   <tr>
     <a href="https://www.instagram.com/T3LNET/">
